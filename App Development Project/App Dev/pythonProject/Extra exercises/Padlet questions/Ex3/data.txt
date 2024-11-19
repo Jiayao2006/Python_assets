@@ -1,0 +1,5 @@
+Expedition,30.99,28,Timex
+G-Shock,78.99,3,Casio
+Minimalist,88.99,20,Fossil
+Seamaster,2500.99,17,Omega
+Eco-Drive,110.99,15,Citizen
